@@ -36,7 +36,7 @@
 }
 
 .bg-cards {
-    background-image: url("../mehreen/images/bg-1.jpg");
+    background-image: url("../images/bg-1.jpg");
 }
 
 .opacity {
@@ -78,7 +78,7 @@
 }
 
 .bg-sale {
-    background-image: url("../mehreen/images/bg-2.jpg");
+    background-image: url("../images/bg-2.jpg");
     background-size: cover;
 }
 
@@ -87,7 +87,7 @@
 }
 
 .bg-brand {
-    background-image: url("../mehreen/images/bg-3.jpg");
+    background-image: url("../images/bg-3.jpg");
     background-size: cover;
 }
 
@@ -106,6 +106,6 @@
 }
 
 .bg-footer {
-    background-image: url("../mehreen/images/bg-4.jpg");
+    background-image: url("../images/bg-4.jpg");
     background-size: cover;
 }
